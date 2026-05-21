@@ -1,0 +1,16 @@
+**pycache**/
+*.pyc
+.env
+
+postgres_data/
+
+airflow/logs/
+
+.idea/
+.vscode/
+
+.DS_Store
+
+project_tree.txt
+
+*.log
